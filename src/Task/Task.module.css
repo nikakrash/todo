@@ -1,0 +1,33 @@
+.card {
+  width: 200px;
+  padding: 15px;
+}
+
+.card.inProgress {
+  background-color:darkgray;
+}
+
+.card.done {
+  background-color: chartreuse;
+}
+
+.text {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.date {
+  text-align: right;
+}
+
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin: 9px;
+}
