@@ -1,14 +1,14 @@
 .card {
-  width: 200px;
+  width: 450px;
   padding: 15px;
 }
 
 .card.inProgress {
-  background-color:darkgray;
+  background-color: #d0d0d0
 }
 
 .card.done {
-  background-color: chartreuse;
+  background-color: #ffa0a7;
 }
 
 .text {
